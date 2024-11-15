@@ -215,10 +215,6 @@ body {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .menu-toggle {
-        display: block;
-    }
-
     .header-content {
         flex-direction: column;
         align-items: flex-start;
